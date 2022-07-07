@@ -1,0 +1,21 @@
+{
+    "name": "k1n/core",
+    "description": "CORE for all projects",
+    "type": "library",
+    "license": "GPLv3",
+    "authors": [
+        {
+            "name": "Rinat Devetyarov",
+            "email": "kinoshnik69@gmail.com"
+        }
+    ],
+    "require": {
+	"php": ">=7.2.0"
+    },
+    
+    "autoload": {
+        "psr-4": {
+	    "k1n\\core\\": "src/"
+        }
+    }
+}
