@@ -18,6 +18,6 @@
 	    "k1n\\core\\": "src/"
         }
     },
-"require": { "k1n/core" : "dev-master" }
+"require": { "Crasher69/core" : "dev-master" }
 "minimum-stability": "dev"	
 }
