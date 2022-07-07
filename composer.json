@@ -17,5 +17,6 @@
         "psr-4": {
 	    "k1n\\core\\": "src/"
         }
-    }
+    },
+"minimum-stability": "dev"	
 }
